@@ -31,6 +31,10 @@ Using **Recency, Frequency, and Monetary (RFM) analysis**, customers are grouped
 
 **Dataset Source:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
+The cleaned dataset is excluded from this repository because of its large file size.
+
+It is generated locally during data preprocessing and stored in `data/processed/`.
+
 ## Technologies Used
 
 - **Programming Language:** Python
